@@ -1,0 +1,2 @@
+# Student-Management-System
+Student Management System is database management application for monitoring and controlling the students in colleges or schools. The project is developed in java, which mainly focuses on basic operations like adding new student’s data, and updating new information, assigning the staff. It features a familiar and well thought-out, an attractive user interface. The Backend of the project is designed using MySQL.
